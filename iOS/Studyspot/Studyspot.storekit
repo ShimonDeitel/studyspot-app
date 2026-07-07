@@ -1,0 +1,27 @@
+{
+  "identifier" : "StudyspotProducts",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "2.99",
+      "familyShareable" : false,
+      "internalID" : "studyspot_pro",
+      "localizations" : [
+        {
+          "description" : "Filter spots by amenity and best time of day",
+          "displayName" : "Studyspot Pro",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.shimondeitel.studyspot.pro",
+      "referenceName" : "Studyspot Pro",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {},
+  "subscriptionGroups" : [],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
